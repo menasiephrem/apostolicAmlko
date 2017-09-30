@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Apostolic Amlko</string>
+    <string name="Disco">Disco</string>
+    <string name="SlowRock">Slow Rock</string>
+    <string name="Wello">ወሎ</string>
+    <string name="Waltz">Waltz</string>
+    <string name="Reggae">Reggae</string>
+    <string name="Minor">Minor</string>
+</resources>

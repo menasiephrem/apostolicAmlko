@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/Wello"
+        android:id="@+id/Wello"
+        />
+    <item android:title="@string/Reggae"
+        android:id="@+id/Reggae"
+        />
+    <item android:title="@string/Disco"
+    android:id="@+id/Disco"
+    /><item android:title="@string/SlowRock"
+    android:id="@+id/SlowRock"
+    /><item android:title="@string/Waltz"
+    android:id="@+id/Waltz"
+    />
+</menu>
